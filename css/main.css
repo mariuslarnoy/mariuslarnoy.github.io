@@ -28,7 +28,8 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-weight: normal;
 }
-hyperlink {
+
+hlink {
     font-size: 1em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     color: blue;
