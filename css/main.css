@@ -15,7 +15,6 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #4F4F4F;
-    font-size: 1.5em;
 }
 a:hover {
     text-decoration: underline;
