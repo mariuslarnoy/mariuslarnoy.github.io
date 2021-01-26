@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mariuslarnoy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mariuslarnoy.github.io
+  * I am mariuslarnoy (https://keybase.io/mariuslarnoy) on keybase.
+  * I have a public key ASD-buGthzihVIUubNOIJtAlbzAxDa7Q8KipO3SLcnXStgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b097b479a759409147cf4b9dec144817f13f89baff85985885a18ccf795c5bd80a",
+      "host": "keybase.io",
+      "kid": "0120fe6ee1ad8738a154852e6cd38826d0256f30310daed0f0a8a93b748b7275d2b60a",
+      "uid": "ddcbf35a4b87539355cbf133302bda19",
+      "username": "mariuslarnoy"
+    },
+    "merkle_root": {
+      "ctime": 1611667178,
+      "hash": "548fa97825e769f608b40b32ee8f9174f870877e4353d9e081b71f54189d651bc3276c1bff6519fcc48720583ca9e13b5913c078856f8bd35142cc692c4c592c",
+      "hash_meta": "5948a220c812486ba36e4ce49e041d0c6cffe5c5a9fcc3098b77c14a618d9fcd",
+      "seqno": 18910490
+    },
+    "service": {
+      "entropy": "I5PH7Cz3O9QR3nvjwMez8n7l",
+      "hostname": "mariuslarnoy.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1611667204,
+  "expire_in": 504576000,
+  "prev": "413f8687f64b76a3595e21ff44fdd8c3b15fb6cfd847e1e680bb92043fe50181",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/m7hrYc4oVSFLmzTiCbQJW8wMQ2u0PCoqTt0i3J10rYKp3BheWxvYWTESpcCCcQgQT+Gh/ZLdqNZXiH/RP3Yw7Ffts/YR+HmgLuSBD/lAYHEIHBZuYdAI1evfzqn73RPX2Gt6Zf63kliTXR4KsdXTRg9AgHCo3NpZ8RAqZ3jFyZP8IRyVZEo/5dqhY74D3EQ8UH5plGtE1l0fpdqngEnuxkt/k6qLOaH4x/snI2N8OYQ9+nEXAd/7k17C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM0RyT+UMK1K6legigomHmmo8pC6X3UZvt/JJEaU2QnKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mariuslarnoy
+
+==================================================================
